@@ -1,70 +1,45 @@
 navbar_entries:
-  - title: about
+  - title: About
     url: about
 
-  - title: blog
+  - title: Blog
     url: blog
 
-  - title: website
-    url: https://www.abhinav.co
+  - title: Website
+    url: https://github.com/MarkVerbeek91
 
 project_entries:
-  - title: Project 1
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+  - title: Rowing Robot
+    url: rowingrobot
+    desc: Robots sink, except this one, 
+    highlight: NEW
 
-  - title: Project 2
+  - title: Requirement Management Tool
     url: overview-post
-    desc: Projects are shown in card layout
+    desc: My take on requirement management
+    highlight: WIP
 
-  - title: Project 3
+  - title: LEGO(R) Cable Funitel
     url: overview-post
     desc: You can control visibility from _config.yml file
 
-  - title: Project 4
+  - title: Open Robotic 6-DOF Arm
     url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
+    desc: 
     highlight: WIP
-
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
-
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
 
 old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
+  - title: Neutron Code
+    url: 
     desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    highlight: NEW
-
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
-
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
-
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
-
+    
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
-
-  - title: twitter
-    url: https://twitter.com/abhinav
-
   - title: github
-    url: https://github.com/abhinavs
+    url: https://github.com/MarkVerbeek91
 
-  - title: feed
-    url: feed.xml
+  - title: linkedIn
+    url: https://www.linkedin.com/in/mark-verbeek-67580085/
+
 
 misc_entries:
   - title: this is an example vertical list
