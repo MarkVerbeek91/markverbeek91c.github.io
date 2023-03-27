@@ -11,7 +11,7 @@ navbar_entries:
 project_entries:
   - title: Rowing Robot
     url: rowingrobot
-    desc: Robots sink, except this one, 
+    desc: Robots sink, except this one!
     highlight: NEW
 
   - title: Requirement Management Tool
@@ -21,18 +21,18 @@ project_entries:
 
   - title: LEGO(R) Cable Funitel
     url: legocabletrack
-    desc: You can control visibility from _config.yml file
+    desc: Longest running personal project with LEGO
 
   - title: Open Robotic 6-DOF Arm
     url: openrobotarm
-    desc: 6-DOF robot arm, 3D printing, grblHAL, 
+    desc: 6-DOF robot arm, 3D printing, grblHAL,
     highlight: WIP
 
 old_project_entries:
   - title: Neutron Code
-    url: 
+    url:
     desc: Master Internship Code.
-    
+
 footer_entries:
   - title: github
     url: https://github.com/MarkVerbeek91
@@ -72,5 +72,3 @@ misc_entries:
 
           - title: it is easy to use, see _data/home.yml to see how to configure it.
             url: false
-
-

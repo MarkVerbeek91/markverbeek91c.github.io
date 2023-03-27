@@ -3,7 +3,7 @@ author: Mark Verbeek
 url: https://www.abhinavsaxena.com/moonwalk # root address of the site
 description: > # description of the site (multiple lines allowed)
   Hi, my name is Mark.
-  
+
   I'm a Software Engineer with an education in physics. I have an interest in a long list of topics. This is my (work in progress) blog/project website to showcase and keep progress of my current projects. See the "About Me" for more.
 
 permalink: /:slug
@@ -16,7 +16,7 @@ remote_theme: abhinavs/moonwalk
 theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
   appearance_toggle: true # if appearance can be switched by user
-  back_home_text: "home.." # customize text for homepage link in post layout
+  back_home_text: "Back to home page" # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: true # show blog description
   show_navbar: true # show horizontal navbar
@@ -31,7 +31,7 @@ theme_config:
   show_tags: true # show tags in a blog posts
   # options for "home" page
   home:
-    title_projects: Portfolio
+    title_projects: Project Portfolio
     title_misc_list: Details
     title_blog: Blog
     title_old_projects: Archived Projects
