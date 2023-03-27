@@ -5,7 +5,7 @@ navbar_entries:
   - title: Blog
     url: blog
 
-  - title: Website
+  - title: Website (github)
     url: https://github.com/MarkVerbeek91
 
 project_entries:
@@ -15,23 +15,23 @@ project_entries:
     highlight: NEW
 
   - title: Requirement Management Tool
-    url: overview-post
+    url: requirementmanagement
     desc: My take on requirement management
     highlight: WIP
 
   - title: LEGO(R) Cable Funitel
-    url: overview-post
+    url: legocabletrack
     desc: You can control visibility from _config.yml file
 
   - title: Open Robotic 6-DOF Arm
-    url: overview-post
-    desc: 
+    url: openrobotarm
+    desc: 6-DOF robot arm, 3D printing, grblHAL, 
     highlight: WIP
 
 old_project_entries:
   - title: Neutron Code
     url: 
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
+    desc: Master Internship Code.
     
 footer_entries:
   - title: github

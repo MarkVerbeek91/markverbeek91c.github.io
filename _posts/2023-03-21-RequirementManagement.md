@@ -1,11 +1,10 @@
 ---
-title: Rowing Robot
+title: Requirement Management Tool
 author: Mark Vebreek
-date: 2023-03-10 08:30:00 +/-0800
+layout: post
+date: 2023-03-01 08:30:00 +/-0800
 categories: [Robotics, Programming]
-tags: [robot, embedded, python, rust, c++/c]
-pin: true
-mermaid: true
+tags: [requirements, ]
 ---
 
 > Work in progress (use a own risk):

@@ -1,7 +1,7 @@
 ---
-layout: post
 title: Rowing Robot
 author: Mark Vebreek
+layout: post
 date: 2023-03-10 08:30:00 +/-0800
 categories: [Robotics, Programming]
 tags: [robot, embedded, python, rust, c++/c]
